@@ -1,4 +1,12 @@
 1) Instalar o git: https://git-scm.com/download/win
 2) Instalar o tortoise git, pra facilitar o processo: https://tortoisegit.org/download/
-Obs: só dar Next
-3) Com uma conta no github criada, procurar o botão pra criar um novo repositório
+Obs: só dar "Next"
+3) Com uma conta no github criada, procurar o botão pra criar um novo repositório, criar como publico, não sei se privado vai dar certo
+4) Copiar o link "https"
+5) No explorador de arquivos do windows, em algum diretório clicar com o botão direito e selecionar "git clone" e preencher com o link copiado
+6) Jogar os arquivos e pastas todos pra dentro desse diretório
+7) Na pasta principal desse repositório, clicar com o direito e selecionar "Git Commit -> master"
+8) Na janela que aparecer, digitar a mensagem do commit, geralmente o que foi feito e caixa de "Changes made", selecionar os checkboxes dos arquivos que deseja subir pro git
+9) Ainda nessa janela, clicar na setinha do onde tem "Commit" e selecionar "Commit & push" e clicar nele
+
+Pronto
