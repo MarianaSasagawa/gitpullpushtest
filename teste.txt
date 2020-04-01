@@ -1,1 +1,4 @@
-Esse eh um arquivo de teste
+1) Instalar o git: https://git-scm.com/download/win
+2) Instalar o tortoise git, pra facilitar o processo: https://tortoisegit.org/download/
+Obs: só dar Next
+3) Com uma conta no github criada, procurar o botão pra criar um novo repositório
